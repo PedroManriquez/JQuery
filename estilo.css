@@ -1,0 +1,11 @@
+.section {
+    text-align:center;
+    font-size: 3em;
+}
+.content{
+    margin:50px;
+}
+.logo{
+	width:200px;
+	height:200px;
+}
